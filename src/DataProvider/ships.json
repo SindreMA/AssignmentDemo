@@ -1,0 +1,135 @@
+[
+    {
+      "id" : 1,
+      "shipCode": 17,
+      "title": "FIRST TRIPPER",
+      "dateBuilt": 1999,
+      "codeFlag": "MALTA"
+    },
+    {
+      "id" : 2,
+      "shipCode": 18,
+      "title": "FIRST POINTER",
+      "dateBuilt": 2005,
+      "codeFlag": "MALTA"
+    },
+    {
+      "id" : 3,
+      "shipCode": 19,
+      "title": "FIRST VOYAGER",
+      "dateBuilt": 2000,
+      "codeFlag": "MALTA"
+    },
+    {
+      "id" : 4,
+      "shipCode": 24,
+      "title": "FIRST MANIAC",
+      "dateBuilt": 2004,
+      "codeFlag": "MT"
+    },
+    {
+      "id" : 5,
+      "shipCode": 26,
+      "title": "FIRST TUESDAY",
+      "dateBuilt": 2002,
+      "codeFlag": "BAH"
+    },
+    {
+      "id" : 6,
+      "shipCode": 27,
+      "title": "FIRST BERGEN",
+      "dateBuilt": 2000,
+      "codeFlag": "SG"
+    },
+    {
+      "id" : 7,
+      "shipCode": 29,
+      "title": "FIRST BONDEANGER",
+      "dateBuilt": 2005,
+      "codeFlag": "DK"
+    },
+    {
+      "id" : 8,
+      "shipCode": 37,
+      "title": "FIRST SOCKER",
+      "dateBuilt": 2000,
+      "codeFlag": "MT"
+    },
+    {
+      "id" : 9,
+      "shipCode": 48,
+      "title": "FIRST CARRIER",
+      "dateBuilt": 1989,
+      "codeFlag": "MALTA"
+    },
+    {
+      "id" : 10,
+      "shipCode": 141,
+      "title": "FIRST BUNKER",
+      "dateBuilt": 2001,
+      "codeFlag": "DK"
+    },
+    {
+      "id" : 11,
+      "shipCode": 160,
+      "title": "FIRST EXECUTIONER",
+      "dateBuilt": 2005,
+      "codeFlag": "BAHAMAS"
+    },
+    {
+      "id" : 12,
+      "shipCode": 447,
+      "title": "FIRST LUNA",
+      "dateBuilt": 2004,
+      "codeFlag": "MALTA"
+    },
+    {
+      "id" : 13,
+      "shipCode": 451,
+      "title": "FIRST MARS",
+      "dateBuilt": 2011,
+      "codeFlag": "BAHAMAS"
+    },
+    {
+      "id" : 14,
+      "shipCode": 452,
+      "title": "FIRST SINKER",
+      "dateBuilt": 2011,
+      "codeFlag": "MALTA"
+    },
+    {
+      "id" : 15,
+      "shipCode": 453,
+      "title": "FIRST LUMPER",
+      "dateBuilt": 1991,
+      "codeFlag": "MALTA"
+    },
+    {
+      "id" : 16,
+      "shipCode": 454,
+      "title": "FIRST DISCHARGER",
+      "dateBuilt": 2009,
+      "codeFlag": "MALTA"
+    },
+    {
+      "id" : 17,
+      "shipCode": 455,
+      "title": "FIRST SINGER",
+      "dateBuilt": 2009,
+      "codeFlag": "DK"
+    },
+    {
+      "id" : 18,
+      "shipCode": 509,
+      "title": "FIRST NOW",
+      "dateBuilt": 2011,
+      "codeFlag": "CAYMA"
+    },
+    {
+      "id" : 19,
+      "shipCode": 510,
+      "title": "FIRST VIEWER",
+      "dateBuilt": 2009,
+      "codeFlag": "PANAMA"
+    }
+]

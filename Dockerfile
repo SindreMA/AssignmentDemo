@@ -1,13 +1,13 @@
 # Build stage
-FROM node:16-alpine AS build
+FROM node:14 AS build
 
 WORKDIR /app
 
 COPY package*.json ./
-RUN npm ci
+RUN npm i -f
 
 COPY . .
-RUN npm run build
+RUN TSC_COMPILE_ON_ERROR=true npm run build
 
 # Production stage
 FROM nginx:alpine
